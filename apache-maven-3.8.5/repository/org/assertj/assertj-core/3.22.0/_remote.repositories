@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 08:17:00 GMT+08:00 2022
+assertj-core-3.22.0.jar>aliyunmaven=
+assertj-core-3.22.0.pom>nexus=
+assertj-core-3.22.0.jar>nexus=
+assertj-core-3.22.0.pom>aliyunmaven=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 12:40:48 GMT+08:00 2022
+classworlds-1.1.jar>nexus=
+classworlds-1.1.pom>nexus=
+classworlds-1.1.jar>aliyunmaven=
+classworlds-1.1.pom>aliyunmaven=

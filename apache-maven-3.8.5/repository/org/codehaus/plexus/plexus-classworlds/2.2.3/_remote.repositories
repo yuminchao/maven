@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 12:40:32 GMT+08:00 2022
+plexus-classworlds-2.2.3.jar>aliyunmaven=
+plexus-classworlds-2.2.3.pom>aliyunmaven=
+plexus-classworlds-2.2.3.pom>nexus=
+plexus-classworlds-2.2.3.jar>nexus=

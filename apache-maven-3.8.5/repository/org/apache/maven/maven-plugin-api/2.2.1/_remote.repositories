@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 12:40:48 GMT+08:00 2022
+maven-plugin-api-2.2.1.jar>aliyunmaven=
+maven-plugin-api-2.2.1.pom>aliyunmaven=
+maven-plugin-api-2.2.1.jar>nexus=
+maven-plugin-api-2.2.1.pom>nexus=

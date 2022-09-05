@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 12:40:51 GMT+08:00 2022
+maven-shared-utils-0.3.jar>nexus=
+maven-shared-utils-0.3.pom>aliyunmaven=
+maven-shared-utils-0.3.pom>nexus=

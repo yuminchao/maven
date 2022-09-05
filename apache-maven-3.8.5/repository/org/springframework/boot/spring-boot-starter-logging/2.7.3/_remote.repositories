@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 08:17:00 GMT+08:00 2022
+spring-boot-starter-logging-2.7.3.pom>aliyunmaven=
+spring-boot-starter-logging-2.7.3.jar>aliyunmaven=
+spring-boot-starter-logging-2.7.3.jar>nexus=
+spring-boot-starter-logging-2.7.3.pom>nexus=

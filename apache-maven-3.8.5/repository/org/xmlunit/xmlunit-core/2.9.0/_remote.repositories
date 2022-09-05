@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 08:17:00 GMT+08:00 2022
+xmlunit-core-2.9.0.jar>aliyunmaven=
+xmlunit-core-2.9.0.pom>nexus=
+xmlunit-core-2.9.0.jar>nexus=
+xmlunit-core-2.9.0.pom>aliyunmaven=

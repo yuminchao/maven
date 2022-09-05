@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 12:40:48 GMT+08:00 2022
+plexus-utils-1.5.15.jar>nexus=
+plexus-utils-1.5.15.jar>aliyunmaven=
+plexus-utils-1.5.15.pom>aliyunmaven=
+plexus-utils-1.5.15.pom>nexus=

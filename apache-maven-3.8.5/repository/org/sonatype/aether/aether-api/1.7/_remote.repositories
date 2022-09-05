@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 31 12:40:35 GMT+08:00 2022
+aether-api-1.7.pom>nexus=
+aether-api-1.7.jar>aliyunmaven=
+aether-api-1.7.jar>nexus=
+aether-api-1.7.pom>aliyunmaven=
